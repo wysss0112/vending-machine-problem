@@ -1,0 +1,64 @@
+{
+    "beverages":[
+        {
+            "id":0,
+            "name": "Nescafe",
+            "price": 4,
+            "stock": 20
+        },
+        {
+            "id":1,
+            "name": "Milo",
+            "price": 4,
+            "stock": 20
+        },
+        {
+            "id":2,
+            "name": "100 Plus",
+            "price": 3,
+            "stock": 20
+        },
+        {
+            "id":3,
+            "name": "Coca-cola",
+            "price": 3,
+            "stock": 0
+        },
+        {
+            "id":4,
+            "name": "Pepsi",
+            "price": 3,
+            "stock": 20
+        },
+        {
+            "id":5,
+            "name": "Lipton Ice Tea",
+            "price": 3,
+            "stock": 20
+        },
+        {
+            "id":6,
+            "name": "Fanta Orange",
+            "price": 3,
+            "stock": 0
+        },
+        {
+            "id":7,
+            "name": "A&W Root Beer",
+            "price": 3,
+            "stock": 20
+        },
+        {
+            "id":8,
+            "name": "Kickapoo",
+            "price": 3,
+            "stock": 20
+        },
+        {
+            "id":9,
+            "name":"Mineral Water",
+            "price": 1,
+            "stock": 15
+        }
+    ]
+}
